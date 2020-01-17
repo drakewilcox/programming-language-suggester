@@ -1,3 +1,15 @@
+.header {
+  padding: 60px;
+  text-align: center;
+  background: teal;
+  color: white;
+  font-size: 30px;
+}
+
+
+
+
+
 .csharp {
   display: none;
 }
