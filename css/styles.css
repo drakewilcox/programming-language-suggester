@@ -1,15 +1,18 @@
+html, body {
+  background-color: rgb(212, 212, 211);
+  height: 100%;
+}
+.container {
+  padding: 30px;
+  height: 100%;
+}
 .header {
   padding: 60px;
+  background-image: url(../img/space.jpg);
   text-align: center;
-  background: teal;
   color: white;
   font-size: 30px;
 }
-
-
-
-
-
 .csharp {
   display: none;
 }
