@@ -1,10 +1,7 @@
 html, body {
   background-color: rgb(212, 212, 211);
   height: 100%;
-}
-.container {
-  padding: 30px;
-  height: 100%;
+  color: black;
 }
 .header {
   padding: 60px;
@@ -12,6 +9,16 @@ html, body {
   text-align: center;
   color: white;
   font-size: 30px;
+}
+.container {
+  padding: 30px;
+  height: 100%;
+}
+.hello {
+  text-align: center;
+}
+p {
+  font-weight: bold;
 }
 .csharp {
   display: none;
@@ -21,4 +28,14 @@ html, body {
 }
 .swift {
   display: none;
+}
+.answer {
+  display: flex;
+  justify-content: center;
+}
+h2 {
+  text-align: center;
+}
+img {
+  width: 20%;
 }
